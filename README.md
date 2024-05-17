@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with NEXTFLIX Clone.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sample usermail : user@justcheck.com
+Sample password : admin6
 
 ## Available Scripts
 
