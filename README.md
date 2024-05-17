@@ -1,6 +1,6 @@
 # Getting Started with NEXTFLIX Clone.
 
-Sample usermail : user@justcheck.com
+Sample usermail : user@justcheck.com\
 Sample password : admin6
 
 ## Available Scripts
